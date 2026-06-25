@@ -1,6 +1,5 @@
 An AI-powered web application that generates clothing designs from text prompts and suggests similar affordable products — making fashion design accessible to everyone, no artistic skills required.
 
----
 
 
 Many students want to explore fashion design but lack artistic or technical skills. Traditional design tools are expensive and time-consuming. This project solves that by letting anyone describe an outfit in plain English and instantly get:
@@ -9,7 +8,7 @@ Many students want to explore fashion design but lack artistic or technical skil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -21,11 +20,9 @@ Many students want to explore fashion design but lack artistic or technical skil
 
 ---
 
-## 📦 Requirements
+## Requirements
 
-```
 streamlit
 requests
 Pillow
 scikit-learn
-```
